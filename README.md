@@ -1,2 +1,2 @@
-# tinand2k2
+# RISC
 RISC Stored-Program Machine

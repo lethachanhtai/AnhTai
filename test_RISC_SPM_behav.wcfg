@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_RISC_SPM_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_RISC_SPM" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="933.380 ns"></ZoomEndTime>
+      <Cursor1Time time="169.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="135"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/test_RISC_SPM/M2/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_Reg_Y" type="logic">
+      <obj_property name="ElementShortName">Load_Reg_Y</obj_property>
+      <obj_property name="ObjectShortName">Load_Reg_Y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Inc_PC" type="logic">
+      <obj_property name="ElementShortName">Inc_PC</obj_property>
+      <obj_property name="ObjectShortName">Inc_PC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M1_Controller/Sel_PC" type="logic">
+      <obj_property name="ElementShortName">Sel_PC</obj_property>
+      <obj_property name="ObjectShortName">Sel_PC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_PC" type="logic">
+      <obj_property name="ElementShortName">Load_PC</obj_property>
+      <obj_property name="ObjectShortName">Load_PC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_IR" type="logic">
+      <obj_property name="ElementShortName">Load_IR</obj_property>
+      <obj_property name="ObjectShortName">Load_IR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/Load_Add_R" type="logic">
+      <obj_property name="ElementShortName">Load_Add_R</obj_property>
+      <obj_property name="ObjectShortName">Load_Add_R</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/PC_count" type="array">
+      <obj_property name="ElementShortName">PC_count[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_count[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/address" type="array">
+      <obj_property name="ElementShortName">address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">address[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/opcode" type="array">
+      <obj_property name="ElementShortName">opcode[3:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M1_Controller/state" type="array">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_R2" type="logic">
+      <obj_property name="ElementShortName">Load_R2</obj_property>
+      <obj_property name="ObjectShortName">Load_R2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/R2_out" type="array">
+      <obj_property name="ElementShortName">R2_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R2_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_R0" type="logic">
+      <obj_property name="ElementShortName">Load_R0</obj_property>
+      <obj_property name="ObjectShortName">Load_R0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/R0_out" type="array">
+      <obj_property name="ElementShortName">R0_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R0_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_R1" type="logic">
+      <obj_property name="ElementShortName">Load_R1</obj_property>
+      <obj_property name="ObjectShortName">Load_R1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/R1_out" type="array">
+      <obj_property name="ElementShortName">R1_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R1_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/Load_R3" type="logic">
+      <obj_property name="ElementShortName">Load_R3</obj_property>
+      <obj_property name="ObjectShortName">Load_R3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_RISC_SPM/M2/M0_Processor/R3_out" type="array">
+      <obj_property name="ElementShortName">R3_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R3_out[7:0]</obj_property>
+   </wvobject>
+</wave_config>

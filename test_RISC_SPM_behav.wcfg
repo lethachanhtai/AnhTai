@@ -1,4 +1,3 @@
-// Use this to display waveforms in Vivado.
 <?xml version="1.0" encoding="UTF-8"?>
 <wave_config>
    <wave_state>

@@ -7,7 +7,7 @@
 
 
 ## INSTRUCTION
-<img width="1209" height="669" alt="image" src="https://github.com/user-attachments/assets/3e2df37a-e870-4025-9830-91d1ac903b56" />
+<img width="1009" height="469" alt="image" src="https://github.com/user-attachments/assets/3e2df37a-e870-4025-9830-91d1ac903b56" />
 
 ## Simulation Vivado
 <img width="1482" height="654" alt="image" src="https://github.com/user-attachments/assets/e7c54eba-abd1-4303-80c5-d509e82cecba" />
